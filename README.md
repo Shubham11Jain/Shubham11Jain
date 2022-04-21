@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in XPERI(TiVo), Bangalore.
-- 💬 Ask me about anything.
+- 🔭 I’m currently working in XPERI(TiVo), Bangalore
+- 💬 Ask me about anything
 - 📫 How to reach me: jain.shubham.sjn@gmail.com
-- ⚡ Fun fact: Love Sci-fi & Thriller Movies. Loved to play Action & Adventures games.
+- ⚡ Fun fact: Love Sci-fi & Thriller Movies. Loved to play Action & Adventures games
 
 
 ## My skills 🚀
