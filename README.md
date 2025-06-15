@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## My Github Status
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Shubham11Jain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Shubham%27s%20GitHub%20Stats&locale=en&hide_border=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Shubham11Jain&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Shubham%27s%20GitHub%20Stats&locale=en&hide_border=false&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham11Jain&theme=react-dark)
 
