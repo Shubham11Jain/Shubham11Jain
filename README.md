@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 
 ## My Github Status
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Shubham11Jain&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham11Jain&theme=react-dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shubham11Jain&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
